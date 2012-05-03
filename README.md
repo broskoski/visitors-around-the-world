@@ -1,1 +1,1 @@
-![Visitors around the world](https://github.com/broskoski/visitors-around-the-world/img/people_world.gif)
+![Visitors around the world](https://github.com/broskoski/visitors-around-the-world/raw/master/img/people_world.gif)
